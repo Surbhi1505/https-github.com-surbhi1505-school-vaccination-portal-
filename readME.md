@@ -97,7 +97,7 @@ npm start
 
 ## 👤 Login Details (Simulated)
 - **Username:** `admin`
-- **Password:** `admin123`
+- **Password:** `admin`
 
 ---
 
